@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0f381c6-200c-4037-8874-05a1483f202b" name="Default Changelist" comment="" />
+    <list default="true" id="e0f381c6-200c-4037-8874-05a1483f202b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-appp" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,7 +34,17 @@
       <option name="presentableId" value="Default" />
       <updated>1614939598694</updated>
       <workItem from="1614939602131" duration="10000" />
+      <workItem from="1614941281825" duration="24000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614941302697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614941302697" />
   </component>
 </project>
